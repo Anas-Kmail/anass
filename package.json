@@ -8,7 +8,9 @@
     "preview": "vite preview",
     "test": "vitest --run",
     "format.fix": "prettier --write .",
-    "typecheck": "tsc"
+    "typecheck": "tsc",
+    "build:client": "vite build"
+
   },
   "dependencies": {},
   "devDependencies": {
